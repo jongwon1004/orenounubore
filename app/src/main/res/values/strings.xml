@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ECC Pizza</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_monk_name">田中</string>
+    <string name="text_monk_age">28</string>
+    <string name="text_monk_detail">親思いの格闘家</string>
+
+    <string name="text_wizard_name">ECC太郎</string>
+    <string name="text_wizard_age">20</string>
+    <string name="text_wizard_detail">筋トレ大好き魔術師</string>
+
+    <string name="text_swordman_name">Comp二郎</string>
+    <string name="text_swordman_age">18</string>
+    <string name="text_swordman_detail">本当は魔法使いになりたい剣士</string>
+
+    <string name="carbonara">Carbonara</string>
+    <string name="carbonara_category">麺料理</string>
+    <string name="carbonara_des">これはカルボならです</string>
+
+    <string name="cornsoup">cornsoup</string>
+    <string name="cornsoup_category">スープ</string>
+    <string name="cornsoup_des">これはコーンスープです</string>
+
+    <string name="doria">doria</string>
+    <string name="doria_category">ドリア</string>
+    <string name="doria_des">これはドリアです</string>
+
+    <string name="focaccia">focaccia</string>
+    <string name="focaccia_category">ポカチア</string>
+    <string name="focaccia_des">これはポカチアです</string>
+
+    <string name="guratan">guratan</string>
+    <string name="guratan_category">米料理</string>
+    <string name="guratan_des">グラタンまずい</string>
+
+    <string name="hamburg">hamburg</string>
+    <string name="hamburg_category">ハンバーグ</string>
+    <string name="hamburg_des">ハンバーぐ美味しい</string>
+</resources>
